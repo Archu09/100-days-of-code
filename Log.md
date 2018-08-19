@@ -1,4 +1,4 @@
-#100 Days Of Code - Log
+# 100 Days Of Code - Log
 ### Day 1 August 19, 2018 (Example 1)
 
 **Today's Progress**: Signup form basic Design.
