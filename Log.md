@@ -22,4 +22,4 @@
 
 **Thoughts:** learned some css and worked on To-do list App done design but more need to be done[functionality]
 
-**Link to work:** [Functionality](https://codepen.io/ArchanaG/project/editor/ZONzxn)
+**Link to work:** [To-Do_App](https://codepen.io/ArchanaG/project/editor/ZONzxn)
