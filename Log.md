@@ -15,3 +15,11 @@
 **Thoughts:** today i learned some css and worked on validations in HTML using regular expression and also developed a Desktop app in .net i'll try to put in guthub sometime later .
 
 **Link to work:** [Validation form](https://codepen.io/ArchanaG/full/gdOmgB)
+
+### Day 3 August 21, 2018 (Example 3)
+
+**Today's Progress**: To-do List App.
+
+**Thoughts:** learned some css and worked on To-do list App done design but more need to be done[functionality]
+
+**Link to work:** [Functionality](https://codepen.io/ArchanaG/project/editor/ZONzxn)
