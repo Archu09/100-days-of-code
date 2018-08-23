@@ -23,3 +23,16 @@
 **Thoughts:** learned some css and worked on To-do list App done design but more need to be done[functionality]
 
 **Link to work:** [To-Do_App](https://codepen.io/ArchanaG/project/editor/ZONzxn)
+### Day 4 August 22, 2018 (Example 3)
+
+**Today's Progress**: To-do List App.
+
+**Thoughts:** worked on todo checked some apps for inspiration
+**Link to work:** nothing
+
+### Day 5 August 23, 2018 (Example 4)
+
+**Today's Progress**: tried something on css properties
+**Thoughts:** worked on css properties animation and transform took lot of time figure ot how it works.tried some other things
+**Link to work:** [Example](https://codepen.io/ArchanaG/pen/VGLRgL)[example2](https://codepen.io/ArchanaG/pen/MqwxEV)[example3](https://codepen.io/ArchanaG/pen/YOXgwb)
+
